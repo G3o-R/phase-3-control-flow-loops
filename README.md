@@ -200,3 +200,5 @@ fizzbuzz
 
 - [Ruby Loops](https://www.rubyguides.com/ruby-tutorial/loops/)
 - [Mastering Ruby Blocks](https://mixandgo.com/learn/ruby-blocks)
+
+https://github.com/G3o-R/phase-3-control-flow-loops
